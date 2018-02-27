@@ -1,0 +1,1 @@
+Auto detect issue example.
